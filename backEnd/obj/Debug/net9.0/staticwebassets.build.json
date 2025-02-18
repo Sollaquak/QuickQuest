@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FB8PobOHNvXsvN4y8AdI0A2QocOwnZkqWbYGdPw6NMo=",
+  "Source": "QuickQuest.Backend",
+  "BasePath": "_content/QuickQuest.Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

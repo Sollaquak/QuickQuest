@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QuickQuest.Backend.props" />
+</Project>
